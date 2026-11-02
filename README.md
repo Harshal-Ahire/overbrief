@@ -2,7 +2,7 @@
 
 **Missed the match? Get back in the game.**
 
-**Live demo:** https://YOUR-FRONTEND-URL.onrender.com  (replace with your real link; the first load may take about a minute on the free plan)
+**Live demo:** https://overbrief-web.onrender.com/
 
 OVERBRIEF turns cricket scoreboard information, from a screenshot or typed in by hand, plus optional recent deliveries, into a short catch-up briefing:
 
