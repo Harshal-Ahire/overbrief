@@ -6,9 +6,9 @@
 
 ## 🏏 The Fan Problem
 
-Cricket fans frequently join a match late or look away for a session, returning to a static scoreboard that shows numbers (score, wickets, overs) but not the story. A scorecard doesn't explain momentum shifts, what a chase requires, or what to watch next, and scrolling through live commentary is too slow.
+Cricket fans often miss part of a live match and come back to a scoreboard that shows numbers but not the story: who has the momentum, what the chase needs, what just changed. Scrolling through commentary to catch up takes too long.
 
-OVERBRIEF gives fans an instant, trusted 30-second catch-up briefing. It separates hard arithmetic from AI reasoning so the numbers are never hallucinated.
+OVERBRIEF solves this by converting scoreboard screenshots or typed match details into an instant catch-up briefing. It uses exact Python math for error-free run rates and Gemini AI to clearly explain what happened, why it matters and what to watch next!
 
 ## 🚀 How It Works
 
